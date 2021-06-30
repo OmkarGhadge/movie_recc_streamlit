@@ -1,5 +1,5 @@
 # MOVIE RECOMMENDER SYSTEM
-## This recommender uses CONTENT based filtering from the TMDb 5000 movie datset.
+This recommender uses CONTENT based filtering from the TMDb 5000 movie datset.
 
 ### Dataset
 TMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
