@@ -3,7 +3,13 @@
 
 ### Dataset
 TMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
-
+### Dependencies
+* Python >=3
+* pandas
+* numpy
+* jupyter notebook
+* tmdbv3api
+* Streamlit
 
 ### Streamlit App
 - Contains filtering by genres, top rated, most popular and recommends movies with plot and poster.
