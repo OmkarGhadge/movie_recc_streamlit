@@ -14,6 +14,7 @@ TMDB 5000 Movie Dataset downloaded from [Kaggle](https://www.kaggle.com/tmdb/tmd
 ### Streamlit App
 - Contains filtering by genres, top rated, most popular and recommends movies with plot and poster.
 - ```app.py``` contains the code for this streamlit application.
+- Used the TMDb API to extract information about the movie along with the movie poster.
 
 ### Heroku deployment
 - Deployed at https://movie-recc-st-app.herokuapp.com/ on Heroku.
